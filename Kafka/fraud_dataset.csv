@@ -1,0 +1,11 @@
+id,user,amount,location,fraud
+1,Alice,500,USA,0
+2,Bob,10000,Russia,1
+3,Charlie,50,India,0
+4,David,7000,China,1
+5,Eve,300,USA,0
+6,Frank,15000,Russia,1
+7,Grace,120,India,0
+8,Henry,9000,China,1
+9,Ivy,80,USA,0
+10,Jack,11000,Russia,1
