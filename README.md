@@ -20,7 +20,7 @@ Fraud detection is a critical challenge in financial security, and this project 
 - **Python** | **TensorFlow** | **Keras** | **Scikit-learn** | **Imbalanced-learn**  
 - **Apache Kafka** (Producer-Consumer Model) for real-time fraud detection  
 - **Gemini AI** | **Flask/FastAPI** for AI-driven chatbot  
-- **React.js | JavaScript** for frontend dashboard visualization  
+- **React.js | JavaScript | Typescript** for frontend dashboard visualization  
 
 ---  
 ## 🚀 Installation Guide  
@@ -75,12 +75,9 @@ npm start
 ## 📌 Folder Structure  
 ```
 AI-Fraud-Detection/
-│── client/          # React.js frontend
+│── client/          # frontend
 │── server/          # FastAPI backend with AI models
-│── models/          # Trained neural network models
 │── kafka/           # Kafka producer & consumer scripts
-│── requirements.txt # Python dependencies
-│── README.md        # Project documentation
 ```
 
 ---  
