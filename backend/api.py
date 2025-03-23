@@ -306,7 +306,7 @@ from sklearn.metrics import (
 )
 import tensorflow as tf
 
-GENAI_API_KEY = "AIzaSyAOoMvnyYwVMleBQU_JdxQrjRQ4uRh6wf0"
+GENAI_API_KEY = "YOUR_API_KEY"
 genai.configure(api_key=GENAI_API_KEY)
 
 FRAUD_KEYWORDS = [
